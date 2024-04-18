@@ -1,4 +1,3 @@
-
 def find_missing_number(Array):
     n = len(Array)
     sum = n * (n + 1) // 2
