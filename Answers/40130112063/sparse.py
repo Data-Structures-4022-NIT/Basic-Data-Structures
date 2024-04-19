@@ -39,7 +39,6 @@ class SparseMatrix:
             print(row)
 
 
-# Example usage:
 normal_matrix = [
     [0, 0, 3, 0],
     [0, 0, 0, 0],
